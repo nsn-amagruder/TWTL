@@ -1,4 +1,4 @@
-<script>
+
 	var refTagger = {
 		settings: {
 			disableInlineCss: true,
@@ -22,4 +22,3 @@
 		g.nonce = refTagger.settings.nonce;
 		s.parentNode.insertBefore(g, s);
 	}(document, "script"));
-</script>
